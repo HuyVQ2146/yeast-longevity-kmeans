@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Excel temp
+~$*.xlsx
+~$*.docx
+
+# AI Coding Assistants & Tools
+.claude/
+.claude*
+.claudedev/
+.cline/
