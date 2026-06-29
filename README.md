@@ -1,6 +1,6 @@
 # Determining Potential Yeast Longevity Genes via Optimized K-Means Clustering
 
-**Course:** CS2220 — Final Project
+**Team Project**
 
 **Team Members:** Vu Quang Huy, Pham Van Bach, Nguyen Nam Binh, Nguyen Tuan Minh
 
